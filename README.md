@@ -30,3 +30,7 @@ This is a fun iOS app that simulates dice rolls. Built as part of the iOS 13 dev
 
 ![App Screenshot](./assets/screenshots/screenshot.png)
 
+## License 📜
+
+This project is licensed under the [MIT License](./LICENSE). See the LICENSE file for details.
+
