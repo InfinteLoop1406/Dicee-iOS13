@@ -26,3 +26,7 @@ This is a fun iOS app that simulates dice rolls. Built as part of the iOS 13 dev
    git clone https://github.com/your-username/Dicee-iOS13.git
 
 
+## Screenshots 📷
+
+![App Screenshot](./assets/screenshots/screenshot.png)
+
